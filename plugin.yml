@@ -1,0 +1,13 @@
+name: NotePlayer
+main: Dequei.noteplayer.NotePlayer
+version: 1.0
+commands:
+  npreload:
+    description: Reload the plugin NotePlayer
+    usage: /npreload
+  np:
+    description: Show the commands of NotePlayer
+    usage: /np
+  np addnote:
+    description: Add note to player
+    usage: /np addnote
